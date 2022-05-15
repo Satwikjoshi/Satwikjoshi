@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Satwik Joshi
-- 👀 I’m interested in ...Python, SQL OR MYSQL, data science. 
-- 🌱 I’m currently learning ...Data Science.
-- 💞️ I’m looking to collaborate on ...Projects related to data science.
+- 👀 I’m interested in ...Web-Devolopment and Data-Science 
+- 🌱 I’m currently in ...6th semester (3rd year) from K.L.S Gogte Institute of Technology.
+- 💞️ I’m looking to collaborate on ...Projects related to Web-devolopment.
 - 📫 How to reach me ...contact me either through Github or linkdin(https://www.linkedin.com/in/satwik-joshi-5ba5471b7).
 
 <!---
